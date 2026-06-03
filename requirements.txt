@@ -1,0 +1,45 @@
+# Dependências do Projeto
+product-name==version
+
+# Discord
+discord.py==2.3.2
+
+# Banco de Dados
+motor==3.3.2
+pymongo==4.6.0
+
+# Web Framework
+fastapi==0.109.0
+uvicorn==0.27.0
+pydantic==2.5.3
+python-multipart==0.0.6
+
+# Configuração
+python-dotenv==1.0.0
+pytz==2024.1
+
+# Pagamentos
+mercadopago==2.3.0
+requests==2.31.0
+
+# Segurança
+PyJWT==2.8.1
+bcrypt==4.1.1
+cryptography==41.0.7
+
+# Utilitários
+Pillow==10.1.0
+qrcode==7.4.2
+aiohttp==3.9.1
+
+# Frontend
+jinja2==3.1.2
+
+# CORS
+fastapi-cors==0.0.6
+
+# Rate Limiting
+slowapi==0.1.9
+
+# Monitoramento
+python-json-logger==2.0.7
